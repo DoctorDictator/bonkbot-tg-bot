@@ -171,5 +171,9 @@ dist
 # IntelliJ based IDEs
 .idea
 
+# SQLite database
+data/
+*.db
+
 # Finder (MacOS) folder config
 .DS_Store
