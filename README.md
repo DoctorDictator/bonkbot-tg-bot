@@ -1,4 +1,4 @@
-# bonkbot2
+# BonkBot
 
 To install dependencies:
 
